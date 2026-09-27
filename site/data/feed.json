@@ -4,6 +4,29 @@
   "lastSuccessfulCollectionAt": "2026-09-27T05:13:30+00:00",
   "items": [
     {
+      "id": "b074e2a494c6e4518d8d",
+      "productId": "qwenwork",
+      "categories": [
+        "other"
+      ],
+      "title": "兑换码兑换指引",
+      "summary": [
+        "积分 兑换码与 订阅 兑换码， 为同一个入口 。兑换流程如下：",
+        "切换至个人版；点左下角头像，选择【 设置 】 选择【 个人资料 】，找到兑换码点击【去兑换】",
+        "积分兑换码与订阅兑换码， 为同一个入口 。兑换流程如下："
+      ],
+      "url": "https://qwenwork.cn/docs/benefits/redeem-code",
+      "sourceId": "discover-qwenwork",
+      "region": "cn",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-27T06:20:45+00:00",
+      "updatedAt": "2026-09-27T06:20:45+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "1eb77f559e9b0c2fc1da158cd4176da5cf99090bee3c4990c2903c9f482d8f6f",
+      "pending": true
+    },
+    {
       "id": "f82c3a18a710bc87769f",
       "productId": "codex",
       "categories": [
@@ -839,6 +862,29 @@
       "summaryMethod": "ai",
       "benefit": null,
       "contentHash": "a3077a1bf02cc60aa923de8e344f9de91f2af4969f8730b14056aafcb2ca647f"
+    },
+    {
+      "id": "659810e17b20bc161e3a",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "优化文档预览窗口的打开、保存、主题与关闭，未登录也可预览 PPT",
+        "优化连接器授权与开关：授权完成后才显示图标，关闭后对话中不再残留可用工具",
+        "优化技能安装、更新检测与闲置提醒，不同来源的同名技能不再误标已安装，套件内技能不再被误关"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.6.2",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-09-22T11:10:30.000Z",
+      "firstSeenAt": "2026-09-27T06:20:45+00:00",
+      "updatedAt": "2026-09-27T06:20:45+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "1ea33068a27ae8e7feda044017b5e9b01bf83af91d8c211584f8210dd512f64c",
+      "pending": false
     },
     {
       "id": "3212a8156c910673dd1d",
