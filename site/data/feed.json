@@ -469,6 +469,27 @@
       "contentHash": "44e8fe7559f6943e86827f48d412f8042786ac5591bcc5bc7ed9dee3443a6dd5"
     },
     {
+      "id": "374ebb0f5b134565559a",
+      "productId": "claude",
+      "categories": [
+        "other"
+      ],
+      "title": "What work can robots do?",
+      "summary": [
+        "Nissyoku Shimbun, \"前川製作所が豚もも肉脱骨ロボット「ハムダス」発売\" [Mayekawa Launches HAMDAS Pork Ham Deboning Robot], Nihon Shokuryo Shimbun , September 14, 1998. https://news.nissyoku.co.jp…"
+      ],
+      "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "sourceId": "discover-claude",
+      "region": "international",
+      "publishedAt": "2026-09-30T16:01:00.000Z",
+      "firstSeenAt": "2026-10-04T06:39:55+00:00",
+      "updatedAt": "2026-10-04T06:39:55+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "20617f587c7c846b9d3c0a8c4d058d34d0bf3047e6981f359132537e57afb94c",
+      "pending": false
+    },
+    {
       "id": "2f1713d0e003cf4ba0d6",
       "productId": "codex",
       "categories": [

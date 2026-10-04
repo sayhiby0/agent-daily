@@ -1169,8 +1169,28 @@
       "brand": "Claude",
       "seenAt": "2026-09-27T06:20:45+00:00",
       "status": "rejected"
+    },
+    "https://www.anthropic.com/research/claude-shaped-science": {
+      "brand": "Claude",
+      "seenAt": "2026-10-04T06:39:55+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities": {
+      "brand": "Claude",
+      "seenAt": "2026-10-04T06:39:55+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/what-work-can-robots-do": {
+      "brand": "Claude",
+      "seenAt": "2026-10-04T06:39:55+00:00",
+      "status": "published"
+    },
+    "https://www.anthropic.com/research/your-thoughts-on-ai": {
+      "brand": "Claude",
+      "seenAt": "2026-10-04T06:39:55+00:00",
+      "status": "rejected"
     }
   },
   "baselineAt": "2026-09-19T19:55:07+00:00",
-  "lastRunAt": "2026-09-27T06:20:45+00:00"
+  "lastRunAt": "2026-10-04T06:39:55+00:00"
 }
