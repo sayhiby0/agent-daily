@@ -1,8 +1,30 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T05:56:25+00:00",
-  "lastSuccessfulCollectionAt": "2026-10-08T05:56:25+00:00",
+  "generatedAt": "2026-10-09T06:02:39+00:00",
+  "lastSuccessfulCollectionAt": "2026-10-09T06:02:39+00:00",
   "items": [
+    {
+      "id": "f966531ef7416d192d24",
+      "productId": "claude",
+      "categories": [
+        "updates"
+      ],
+      "title": "Introducing the Anthropic Cyber Mission",
+      "summary": [
+        "Anthropic推出“网络任务”，旨在通过工具、研究和资源支持关键基础设施及开源软件的安全防御。该计划包含两个主要领域：针对电力、水务等运营技术的“关键基础设施防御计划”（CIDP），以及面向开源项目的“OSS Scanner”。",
+        "CIDP联合Accenture、CrowdStrike等合作伙伴，利用前沿Claude模型和现场工程师协助修复漏洞。OSS Scanner为注册项目提供免费自动安全扫描，生成包含概念验证和修复建议的报告，预计准确率超90%，以加速漏洞披露与修补。",
+        "Anthropic承认短期内AI可能被攻击者滥用，但预测两年后AI将有利于防御。公司将继续扩展网络验证计划，资助开源基金会，并与政府、企业及非营利组织合作，共同提升全球软件供应链和关键系统的安全性。"
+      ],
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "sourceId": "claude-updates",
+      "region": "international",
+      "publishedAt": "2026-10-08T09:04:16.632Z",
+      "firstSeenAt": "2026-10-09T06:02:39+00:00",
+      "updatedAt": "2026-10-09T06:02:39+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "1036d4ebc4b9eeccc009224ee875b86581e9840290358510a3a67545fd84043d"
+    },
     {
       "id": "641041e91c5b6ee8bb77",
       "productId": "codex",
@@ -133,19 +155,19 @@
       ],
       "title": "Expanding the Cyber Verification Program",
       "summary": [
-        "Anthropic推出扩展版网络验证计划（CVP），整合原有项目，为合格安全专业人员提供三个访问层级：防御访问、红队访问和专用访问。各层级根据工作范围设定不同的验证要求和安全控制措施，允许申请使用Claude Opus 5.5等先进模型以增强系统防护能力。",
-        "通用模型保留保守的网络安全措施以限制恶意行为，而通过CVP的受信任团队可获得降低后的安全屏障。数据保留是必需的以便监控滥用，未来将推出结合零数据保留与强 safeguards 的企业前沿保障措施（EFS）。现有成员将自动评估新模型权限。",
-        "CVP已在Claude平台、Google Cloud Vertex AI及Microsoft Foundry上线，Amazon Bedrock仅对符合EFS资格的客户开放。Anthropic同时宣布投资1亿美元建立Claude Frontier Academy培训工程师，并成立生命科学研究组，利用Claude发现新型酶系统。"
+        "Anthropic推出扩展版网络验证计划（CVP），整合Project Glasswing与原有项目，为合格安全专业人员提供Claude Opus 5.5、Sonnet 5.5及Mythos 5.1等模型的高级网络能力。",
+        "CVP设三个访问层级：Defense Access用于防御性工作，Red Team Access增加授权渗透测试，Specialized Access面向经政府合作审核的关键基础设施测试机构，各层级对应不同验证要求与安全控制。",
+        "数据显示，在Defense Access层级中多数复杂攻击任务仍被拦截，而Red Team Access层级几乎无阻断且成功率接近无防护状态；计划要求数据留存以监控滥用，并将于秋季推出支持零数据保留的Enterprise Frontier Safeguards。"
       ],
       "url": "https://www.anthropic.com/news/cyber-verification-program",
       "sourceId": "claude-updates",
       "region": "international",
       "publishedAt": "2026-10-06T19:00:00.000Z",
       "firstSeenAt": "2026-10-08T05:56:25+00:00",
-      "updatedAt": "2026-10-08T05:56:25+00:00",
+      "updatedAt": "2026-10-09T06:02:39+00:00",
       "summaryMethod": "ai",
       "benefit": null,
-      "contentHash": "5e705f87895b53f79ca53b46ac99a60d4277e90733f2ad993e9a0b08cdc4cf45"
+      "contentHash": "0eca9133b9cf217aee59d59afc9f5e878a225c9a55c301393a05507772978b43"
     },
     {
       "id": "6c90fa2b58feb5b1cd48",
@@ -479,19 +501,19 @@
       ],
       "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
       "summary": [
-        "Anthropic推出Claude Frontier Academy，计划投入1亿美元培训1万名前沿部署工程师（FDE），旨在解决企业AI实施中的人才短缺问题。首批学员来自埃森哲、麦肯锡等机构，目标在2027年底前完成培训。",
-        "该项目采用类似医学的驻留模式，工程师需通过模拟部署和实际项目考核，最终获得认证。课程面向具备基础软件技能及LLM经验的工程师，由组织提名参与，将在旧金山、纽约和伦敦等地开展。",
-        "此外，Anthropic还扩大了网络安全验证程序，并与巴克莱银行深化合作以集成企业级AI系统。同时宣布成立生命科学研究组，早期成果显示Claude发现了一种具有CRISPR特性的新型酶系统。"
+        "Anthropic宣布推出Claude Frontier Academy，旨在解决企业AI实施中的人才短缺问题。该计划由1亿美元资金支持，目标是在2027年底前培训10,000名前沿部署工程师（FDE）。",
+        "首批学员来自埃森哲、麦肯锡、德勤等知名机构。项目采用类似医学的驻留模式，包括多日线下集训、模拟部署及为期12周的实战指导，通过考核者将获得相应认证徽章。",
+        "该项目面向具备扎实基础且曾使用LLM构建应用的软件工程师，需由组织提名。目前旧金山、纽约和伦敦已开设课程，参与资格需向Anthropic客户经理咨询确认。"
       ],
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
       "sourceId": "claude-updates",
       "region": "international",
       "publishedAt": "2026-10-02T23:01:00.000Z",
       "firstSeenAt": "2026-10-03T05:12:31+00:00",
-      "updatedAt": "2026-10-08T05:56:25+00:00",
+      "updatedAt": "2026-10-09T06:02:39+00:00",
       "summaryMethod": "ai",
       "benefit": null,
-      "contentHash": "d5c91520f08717146c19be52e49741476285cab3e8c8db713220ca5ace681f5a"
+      "contentHash": "de85d3b7fb7d6fbe48187b24173af8d6262dd40647ba2d41026382e7514459cd"
     },
     {
       "id": "2f322aa4a0837a4057dc",
@@ -685,19 +707,19 @@
       ],
       "title": "Barclays scales Claude to upgrade operations and improve client experience",
       "summary": [
-        "巴克莱银行扩大与Anthropic的合作，将Claude AI集成至全球运营中，旨在加速软件开发、现代化遗留系统并提升效率。计划到2026年底使50%的开发者使用Claude Code，2027年覆盖多数软件工程师。",
-        "目前，超过16,000名员工已采用由Claude驱动的同事知识助手，处理逾百万次搜索；全球市场业务利用该模型每日分类处理约12万封客户邮件，优化流程并减少人工操作。",
-        "双方强调负责任地部署AI，实施严格的治理、安全控制和人工监督。此举被视为英国AI应用的重要里程碑，展示了在高标准安全环境下规模化应用前沿AI技术的成果。"
+        "巴克莱银行扩大与Anthropic的合作，将Claude AI系统整合至全球运营中，旨在加速软件开发、现代化遗留系统并提升运营效率。",
+        "目前，超过16,000名员工已使用由Claude驱动的同事知识助手，日均处理约12万封邮件以优化客户咨询流程，实现更快速的信息检索和客户支持。",
+        "巴克莱计划到2026年底使50%的开发者采用Claude Code，并于2027年覆盖多数软件工程师，同时强调在严格治理和安全控制下负责任地部署AI。"
       ],
       "url": "https://www.anthropic.com/news/barclays-scales-claude",
       "sourceId": "claude-updates",
       "region": "international",
       "publishedAt": "2026-10-01T15:19:00.000Z",
       "firstSeenAt": "2026-10-07T05:52:01+00:00",
-      "updatedAt": "2026-10-08T05:56:25+00:00",
+      "updatedAt": "2026-10-09T06:02:39+00:00",
       "summaryMethod": "ai",
       "benefit": null,
-      "contentHash": "af0e470dce4540c6ad0ac969e32a58e05a137c7014f42948bbb86929b4f19942"
+      "contentHash": "4194b6b9f64f5a1b1dc0115d8596025ec7de8698eaf263bb58ee2c87b31c31ff"
     },
     {
       "id": "41c7668fe8cdd7802e49",
@@ -1928,19 +1950,19 @@
       ],
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "summary": [
-        "Anthropic宣布成立新的生命科学研究团队，利用Claude模型探索DNA数据集以识别未表征的蛋白质家族并生成假设。该团队在实验室中测试这些假设，旨在通过AI与人类协作加速基础生物学发现。",
-        "Claude自主发现了一种名为ART的新型酶系统，其特征与CRISPR相似，包含逆转录酶、伴侣基因及非编码DNA重复序列阵列。尽管具体功能尚待确定，但该系统的特性此前仅在少数可编辑DNA的系统中共同出现。",
-        "研究人员通过让Claude分析海量DNA序列，从20多万种逆转录酶中筛选出候选者，最终识别出这一新系统。目前正进行后续实验以确定其工作机制，并已发布预印本分享早期成果，展示AI驱动假设生成的能力。"
+        "Anthropic成立新的生命科学研究团队，利用Claude模型探索DNA数据集以识别未表征的蛋白质家族并生成假设。",
+        "Claude自主发现了一种名为ART的新型酶系统，该系统包含逆转录酶及类似CRISPR的DNA重复序列阵列，此前未被人类科学家注意到。",
+        "该发现由约950个AI代理在21小时内分析海量数据得出，目前其具体功能仍在研究中，相关预印本已发布以供社区参考。"
       ],
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "sourceId": "claude-updates",
       "region": "international",
       "publishedAt": "2026-09-23T16:06:00.000Z",
       "firstSeenAt": "2026-09-25T04:52:04+00:00",
-      "updatedAt": "2026-10-08T05:56:25+00:00",
+      "updatedAt": "2026-10-09T06:02:39+00:00",
       "summaryMethod": "ai",
       "benefit": null,
-      "contentHash": "dc3173455212cce114927b362e41d2fa576d225cacb379ef2546cc95e410ed80"
+      "contentHash": "aca4a1f6140623e71c378effc8e5413f09830e9263c4f8677c3dfcc1a8d09c27"
     },
     {
       "id": "44d4e09f2f3db5a4e35d",
@@ -3254,19 +3276,19 @@
       ],
       "title": "Introducing the Life Sciences Verification Program",
       "summary": [
-        "Anthropic推出生命科学验证计划（LSVP），向通过审核的专业团队开放Mythos、Opus和Sonnet模型，放宽生物研究限制。",
-        "计划设标准与高风险两类授权，需经资质与安全审查。采用离线监控而非实时拦截，保留30天数据以识别滥用行为。",
-        "目前支持API及企业版，暂不支持个人计划及BAA机构。同时发布网络安全验证计划及千亿美元级工程师培训项目。"
+        "Anthropic推出生命科学验证计划（LSVP）Beta版，向团队和机构开放申请。该计划提供对Mythos、Opus和Sonnet模型的访问权限，针对生物学相关工作优化了安全限制，旨在支持药物发现、研发及临床开发等被通用模型屏蔽的任务。",
+        "资格申请者需经过研究资质、安全标准和伦理审查。获批后分为“标准使用”和“高风险使用”两类授权：前者适用于大多数日常科研，按年续期；后者针对特定高危项目，每六个月续期并移除部分生命科学的拦截措施。",
+        "安全措施从实时拦截转向离线监控，要求保留30天数据以识别滥用模式，防止账户劫持或内部威胁。目前LSVP仅面向API和企业/团队计划用户，暂不支持个人计划及第三方平台，且不适用于受HIPAA保护的组织。"
       ],
       "url": "https://www.anthropic.com/news/life-sciences-verification-program",
       "sourceId": "claude-updates",
       "region": "international",
       "publishedAt": "2026-09-17T15:56:00.000Z",
       "firstSeenAt": "2026-09-19T19:20:49+00:00",
-      "updatedAt": "2026-10-08T05:56:25+00:00",
+      "updatedAt": "2026-10-09T06:02:39+00:00",
       "summaryMethod": "ai",
       "benefit": null,
-      "contentHash": "15f5ca2a4fd371d016f60b537772652b3dbb87ce252f8c628ffe8810ca6e5579"
+      "contentHash": "644628e706f6c2ad87f02647d71901a1a0453cf752c6b65a28eb9133dc85850e"
     },
     {
       "id": "d290c9493fdfc6d44983",
@@ -3606,19 +3628,19 @@
       ],
       "title": "Developing Enterprise Frontier Safeguards with our customers",
       "summary": [
-        "Anthropic发布企业前沿安全护栏（EFS），结合零数据保留隐私与先进滥用检测能力。该方案允许客户将数据存储在自有云基础设施中，由Anthropic、AWS、Google Cloud及Microsoft Azure合作开发，旨在平衡隐私与安全监控需求。",
-        "EFS支持Claude Code、Enterprise及各大云平台，通过自动化系统分析跨会话流量以检测复杂网络攻击和凭证泄露。所有审查均由客户自主完成，Anthropic不参与人工审核，确保符合金融、医疗等受监管行业的合规要求。",
-        "EFS功能为可选配置，不改变模型行为或定价，Anthropic不收取费用，仅由云提供商按常规标准收取存储费用。该服务将于今年秋季分阶段向客户开放，同时推出扩展版网络验证计划及百万美元投资的人才培训项目。"
+        "Anthropic推出企业前沿安全保护（EFS），结合零数据保留隐私与先进滥用检测机制。该方案允许客户将数据存储在自身控制的云基础设施中，而非Anthropic服务器，旨在平衡隐私与安全需求。",
+        "EFS由Anthropic与超过100家企业及AWS、Google Cloud等云合作伙伴共同开发，支持Claude Code、Amazon Bedrock等多个平台。其核心在于通过自动化系统监控跨会话和账户的异常行为，并将警报直接发送给客户进行审查。",
+        "EFS采用客户拥有的存储、客户管理的加密密钥及完全自动化的审查流程，无需Anthropic人工介入。服务分阶段推出，预计秋季广泛可用，Anthropic不收取额外费用，但客户需承担自有云存储产生的相关费用。"
       ],
       "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
       "sourceId": "claude-updates",
       "region": "international",
       "publishedAt": "2026-09-01T23:31:00.000Z",
       "firstSeenAt": "2026-09-19T19:20:49+00:00",
-      "updatedAt": "2026-10-08T05:56:25+00:00",
+      "updatedAt": "2026-10-09T06:02:39+00:00",
       "summaryMethod": "ai",
       "benefit": null,
-      "contentHash": "37adbe1e856c0f980b3c649854238f66d607e3a36b959e70d674b68fe5327f2f"
+      "contentHash": "ae4cd29c4a0cb70daa58e2b8d39ed0a368218712e129ab0c4b11eeaf636600d9"
     },
     {
       "id": "36e229e4aafe7edc528d",
@@ -3923,7 +3945,7 @@
       "region": "international",
       "publishedAt": "2026-08-27",
       "firstSeenAt": "2026-09-17T16:52:14+00:00",
-      "updatedAt": "2026-10-08T05:56:25+00:00",
+      "updatedAt": "2026-10-09T06:02:39+00:00",
       "summaryMethod": "extractive",
       "benefit": null,
       "contentHash": "76e7769864137c2673ccfc1401f225d79439d532cf1796a62fe0218a05560a42"
@@ -4122,8 +4144,8 @@
       "name": "Qoder 国际版 · 更新日志",
       "kind": "website",
       "url": "https://docs.qoder.com/zh/release-notes/qoder",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
       "itemCount": 15,
       "status": "partial",
       "message": "本轮检查 16 条，匹配 15 条。部分内容未能整理，之后自动重试。"
@@ -4134,8 +4156,8 @@
       "name": "Qoder 国际版 · 官方活动",
       "kind": "website",
       "url": "https://docs.qoder.com/zh/events/bogo",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
       "itemCount": 8,
       "status": "ok",
       "message": "本轮检查 8 条，匹配 8 条。"
@@ -4146,8 +4168,8 @@
       "name": "千问办公 · 更新日志",
       "kind": "website",
       "url": "https://docs.qwenwork.cn/release-notes/desktop",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
       "itemCount": 10,
       "status": "ok",
       "message": "本轮检查 10 条，匹配 10 条。"
@@ -4158,8 +4180,8 @@
       "name": "千问办公 · 使用指南",
       "kind": "website",
       "url": "https://qwenwork.cn/docs/getting-started/basic-workflow",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -4170,8 +4192,8 @@
       "name": "WorkBuddy · 更新日志",
       "kind": "website",
       "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
       "itemCount": 21,
       "status": "ok",
       "message": "本轮检查 25 条，匹配 21 条。"
@@ -4182,7 +4204,7 @@
       "name": "WorkBuddy · 快速开始",
       "kind": "website",
       "url": "https://www.workbuddy.cn/docs/workbuddy/Quickstart",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": "2026-09-27T05:13:30+00:00",
       "itemCount": 0,
       "status": "partial",
@@ -4194,8 +4216,8 @@
       "name": "豆包工作 · 官方帮助中心",
       "kind": "website",
       "url": "https://www.doubao.com/work/docs/zh-cn/articles/095732655658-about-doubao-work",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -4206,8 +4228,8 @@
       "name": "飞书官方 · 豆包工作介绍",
       "kind": "website",
       "url": "https://www.feishu.cn/content/article/7677519271848610746",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -4218,8 +4240,8 @@
       "name": "千问办公 · 产品权益",
       "kind": "website",
       "url": "https://qwenwork.cn/docs/benefits",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -4230,8 +4252,8 @@
       "name": "千问办公 · 个人版权益",
       "kind": "website",
       "url": "https://qwenwork.cn/docs/benefits/personal",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -4242,8 +4264,8 @@
       "name": "千问办公 · 上线福利活动",
       "kind": "website",
       "url": "https://qwenwork.cn/docs/activity/qwen3.8-max-update",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -4254,11 +4276,11 @@
       "name": "Codex · GitHub 发布记录",
       "kind": "website",
       "url": "https://github.com/openai/codex/releases",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": "2026-10-08T05:56:25+00:00",
-      "itemCount": 10,
-      "status": "ok",
-      "message": "本轮检查 10 条，匹配 10 条。"
+      "itemCount": 0,
+      "status": "error",
+      "message": "来源暂不可用，将在下次任务重试。"
     },
     {
       "id": "claude-updates",
@@ -4266,11 +4288,11 @@
       "name": "Claude · 官方新闻",
       "kind": "website",
       "url": "https://www.anthropic.com/news",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
-      "lastSuccessAt": "2026-10-08T05:56:25+00:00",
-      "itemCount": 10,
-      "status": "ok",
-      "message": "本轮检查 10 条，匹配 10 条。"
+      "checkedAt": "2026-10-09T06:02:39+00:00",
+      "lastSuccessAt": "2026-10-09T06:02:39+00:00",
+      "itemCount": 7,
+      "status": "partial",
+      "message": "本轮检查 10 条，匹配 7 条。部分内容未能整理，之后自动重试。"
     },
     {
       "id": "qoder-xhs",
@@ -4278,7 +4300,7 @@
       "name": "Qoder · 小红书",
       "kind": "xiaohongshu",
       "url": "https://xhslink.com/m/210eULoS2jT",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -4290,7 +4312,7 @@
       "name": "腾讯WorkBuddy · 小红书",
       "kind": "xiaohongshu",
       "url": "https://www.xiaohongshu.com/user/profile/69b82bc0000000003202c526",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -4302,7 +4324,7 @@
       "name": "豆包工作 · 小红书",
       "kind": "xiaohongshu",
       "url": "https://www.xiaohongshu.com/user/profile/6805d023000000000a03fa77",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -4314,7 +4336,7 @@
       "name": "千问办公 · 小红书",
       "kind": "xiaohongshu",
       "url": "https://www.xiaohongshu.com/user/profile/611dc5fd0000000001006906",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -4326,7 +4348,7 @@
       "name": "Qoder · 微信公众号",
       "kind": "wechat",
       "url": "https://qoder.com.cn/",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "unconfigured",
@@ -4338,7 +4360,7 @@
       "name": "WorkBuddy · 微信公众号",
       "kind": "wechat",
       "url": "https://www.workbuddy.cn/docs/workbuddy/Contact",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "unconfigured",
@@ -4350,7 +4372,7 @@
       "name": "千问办公 · 微信公众号",
       "kind": "wechat",
       "url": null,
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "unconfigured",
@@ -4362,7 +4384,7 @@
       "name": "豆包工作 · 微信公众号",
       "kind": "wechat",
       "url": null,
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "unconfigured",
@@ -4374,7 +4396,7 @@
       "name": "WorkBuddy · X",
       "kind": "x",
       "url": "https://x.com/WorkBuddy_AI",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -4386,7 +4408,7 @@
       "name": "OpenAI · X",
       "kind": "x",
       "url": "https://x.com/OpenAI",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -4398,7 +4420,7 @@
       "name": "Claude · X",
       "kind": "x",
       "url": "https://x.com/claudeai",
-      "checkedAt": "2026-10-08T05:56:25+00:00",
+      "checkedAt": "2026-10-09T06:02:39+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -4406,12 +4428,12 @@
     }
   ],
   "run": {
-    "newCount": 7,
-    "updatedCount": 11,
+    "newCount": 1,
+    "updatedCount": 8,
     "budget": {
       "limitCny": 30.0,
       "guardCny": 25.0,
-      "spentCny": 0.147275,
+      "spentCny": 0.170399,
       "mode": "ai"
     }
   }
