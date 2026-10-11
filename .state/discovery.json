@@ -1189,8 +1189,58 @@
       "brand": "Claude",
       "seenAt": "2026-10-04T06:39:55+00:00",
       "status": "rejected"
+    },
+    "https://www.workbuddy.cn/pricing/": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-11T06:52:03+00:00",
+      "status": "no-content"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.0": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-11T06:52:03+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.2": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-11T06:52:03+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.3": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-11T06:52:03+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.5": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-11T06:52:03+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.6": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-11T06:52:03+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.7": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-11T06:52:03+00:00",
+      "status": "no-content"
+    },
+    "https://www.anthropic.com/research/investigating-unintended-model-actions": {
+      "brand": "Claude",
+      "seenAt": "2026-10-11T06:52:03+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source": {
+      "brand": "Claude",
+      "seenAt": "2026-10-11T06:52:03+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/the-missing-map-of-the-sky": {
+      "brand": "Claude",
+      "seenAt": "2026-10-11T06:52:03+00:00",
+      "status": "rejected"
     }
   },
   "baselineAt": "2026-09-19T19:55:07+00:00",
-  "lastRunAt": "2026-10-04T06:39:55+00:00"
+  "lastRunAt": "2026-10-11T06:52:03+00:00"
 }

@@ -335,6 +335,120 @@
       "contentHash": "0eca9133b9cf217aee59d59afc9f5e878a225c9a55c301393a05507772978b43"
     },
     {
+      "id": "5862923bb83451aa0276",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "定时任务页面焕新，集中查看任务模板、配置与运行记录，任务失败时更容易找到原因",
+        "新增全局搜索，可查找资料库内容和聊天记录",
+        "首次打开包含开发配置的工作区时增加信任确认，保护本地文件与运行环境"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.0",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-06T11:49:13.000Z",
+      "firstSeenAt": "2026-10-11T06:52:03+00:00",
+      "updatedAt": "2026-10-11T06:52:03+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "695e0c1a375a2a723a8b06f386bfa8dbe693f87e6a541a9119f48cb907cef0f5",
+      "pending": false
+    },
+    {
+      "id": "03fe753c2551cca18dc9",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "修复企业下发的助理在「企业智能体」列表中消失的问题，现在可以正常找到并使用",
+        "修复侧栏「助理」入口消失，以及「助理」「项目」入口位置不正确的问题"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.2",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-06T11:49:13.000Z",
+      "firstSeenAt": "2026-10-11T06:52:03+00:00",
+      "updatedAt": "2026-10-11T06:52:03+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "341efad164d59e44e5a4374e5a8878c42c9a606e71236c206349d727bb09e6be",
+      "pending": false
+    },
+    {
+      "id": "00058b2d530915309c32",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "优化首页任务推荐的加载速度，减少首次展示时的内容跳动",
+        "修复 Windows 上从模板创建自动化任务失败的问题",
+        "修复 Windows 更新安装期间提前打开应用导致报错的问题"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.3",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-06T11:49:13.000Z",
+      "firstSeenAt": "2026-10-11T06:52:03+00:00",
+      "updatedAt": "2026-10-11T06:52:03+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "2ca95820152952b91886b64a19504eb956cfe6ff9c94d789f5f228947dcff6dc",
+      "pending": false
+    },
+    {
+      "id": "dcb90ad58bef24b1bd6a",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "新增定时任务汇总页，同一任务的历次运行按时间线展示，可集中查看执行结果和产物",
+        "新增定时任务产物系统通知，点击提醒即可打开对应产物",
+        "新增 Outlook 连接器（海外版），授权后可处理邮件、日程和联系人"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.5",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-06T11:49:13.000Z",
+      "firstSeenAt": "2026-10-11T06:52:03+00:00",
+      "updatedAt": "2026-10-11T06:52:03+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "e1f20c568de98748ef2d4de80dd92a9a68d5b14b3e01e8f897f1056653a66a7f",
+      "pending": false
+    },
+    {
+      "id": "6dcac3178bd16f057fb2",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "海外版新增 Gmail 连接器，完成授权后可直接读取和发送邮件",
+        "修复图片生成高积分提醒误触发或漏触发的问题",
+        "修复偶现新建本地任务失败的问题"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.7.6",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-06T11:49:13.000Z",
+      "firstSeenAt": "2026-10-11T06:52:03+00:00",
+      "updatedAt": "2026-10-11T06:52:03+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "7454f01ecf1ac4f2f938cd8ad870228f54e8c0d44d93d3582d0ae99cf8b08240",
+      "pending": false
+    },
+    {
       "id": "6c90fa2b58feb5b1cd48",
       "productId": "codex",
       "categories": [
