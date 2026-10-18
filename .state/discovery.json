@@ -1239,8 +1239,68 @@
       "brand": "Claude",
       "seenAt": "2026-10-11T06:52:03+00:00",
       "status": "rejected"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.8.0": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.8.1": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.8.2": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "published"
+    },
+    "https://qoder.com/blog/qoder-fast": {
+      "brand": "Qoder",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "no-content"
+    },
+    "https://www.anthropic.com/engineering/redesigning-source-control": {
+      "brand": "Claude",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/ai-expectations-gap": {
+      "brand": "Claude",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/designing-efficient-quantum-circuits": {
+      "brand": "Claude",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/distillation-defenses": {
+      "brand": "Claude",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/ecdsa-curve-origins": {
+      "brand": "Claude",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/employment-at-anthropic": {
+      "brand": "Claude",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/expectations-for-the-future": {
+      "brand": "Claude",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/self-replicating-ai": {
+      "brand": "Claude",
+      "seenAt": "2026-10-18T05:29:15+00:00",
+      "status": "rejected"
     }
   },
   "baselineAt": "2026-09-19T19:55:07+00:00",
-  "lastRunAt": "2026-10-11T06:52:03+00:00"
+  "lastRunAt": "2026-10-18T05:29:15+00:00"
 }

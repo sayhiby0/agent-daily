@@ -64,6 +64,75 @@
       "contentHash": "3ccbf960326858ec273d0a855f002721a06136f5339298843910ae8731c5cbd8"
     },
     {
+      "id": "62163809b15ba4142256",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "新增 Buddy 应用内嵌挂件，可从侧栏「更多」以独立窗口打开，并将页面内容带入新任务",
+        "新增独立文件浏览器窗口与独立图标，本地文件可与主窗口分开预览和 AI 编辑",
+        "增强资料库能力，支持助手搜索和上传文件、上传压缩包，并将内容用于后续检索与处理"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.8.0",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-16T06:51:12.000Z",
+      "firstSeenAt": "2026-10-18T05:29:15+00:00",
+      "updatedAt": "2026-10-18T05:29:15+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "4409c761c8c688ba4da24c6ccb6b222f28e19b33104cacb44180e6b7e67521cd",
+      "pending": false
+    },
+    {
+      "id": "e37ea994aef71b1a5aa1",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "安全中心的文件备份支持设置单文件大小上限，填 0 即可不限制文件大小",
+        "开始语音输入时自动聚焦输入框，发送消息后自动结束语音输入",
+        "企业微信助理的回复会跟随你的交流语言，引导弹窗中「前往登录」可直接唤起企业微信客户端"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.8.1",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-16T06:51:12.000Z",
+      "firstSeenAt": "2026-10-18T05:29:15+00:00",
+      "updatedAt": "2026-10-18T05:29:15+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "2e64550a96b5251d669fefbfe750444b187c76df8fbe13f02f24ef4c0f7a17a4",
+      "pending": false
+    },
+    {
+      "id": "037195ae1fac7ee5ef63",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "修复部分历史会话因消息异常或内容过大而无法打开的问题",
+        "修复企业微信智能机器人生成文件后，回复卡在思考中、文件未发回对话的问题",
+        "修复产物栏数量跳变，以及网页端产物预览遮挡下载入口的问题"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.8.2",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-16T06:51:12.000Z",
+      "firstSeenAt": "2026-10-18T05:29:15+00:00",
+      "updatedAt": "2026-10-18T05:29:15+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "b120671c995fa4f4df959bfed580c24ee2e4e723e9f7b6a4e21462c12e1533b0",
+      "pending": false
+    },
+    {
       "id": "c593fd8cdf172fa2d1ce",
       "productId": "codex",
       "categories": [
