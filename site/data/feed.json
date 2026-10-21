@@ -1,8 +1,168 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T04:42:54+00:00",
-  "lastSuccessfulCollectionAt": "2026-10-20T04:42:54+00:00",
+  "generatedAt": "2026-10-21T04:38:47+00:00",
+  "lastSuccessfulCollectionAt": "2026-10-21T04:38:47+00:00",
   "items": [
+    {
+      "id": "ce98223889daf4b129b0",
+      "productId": "qoder",
+      "categories": [
+        "benefits"
+      ],
+      "title": "限时：首购 Credits 买一送一，续费与升级加赠 Credits",
+      "summary": [
+        "Qoder.com 于2026年10月21日启动限时活动，个人订阅方案（Lite、Pro、Pro+、Ultra）首购买一送一，续费与升级加赠Credits。Teams及企业版不参与，支付成功后自动发放，无需手动领取。",
+        "首次订阅中，Lite、Pro、Pro+分别获赠1,000、2,000、6,000 Credits，Ultra无首购加赠；续费或升级则根据新方案等级获得500至3,000不等的Credits。加赠Credits有效期为发放后30个自然日，不可转让或兑换现金。",
+        "已退款订单视为曾经付费，不再享受首购优惠。若账户存在异常注册或虚假交易等违规行为，Qoder有权取消资格并收回加赠Credits。活动具体结束时间待定，将以官方公告为准。"
+      ],
+      "url": "https://docs.qoder.com/zh/events/newbogo",
+      "sourceId": "qoder-events",
+      "region": "international",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-21T04:38:47+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": {
+        "startAt": "2026-10-21T00:00:00+08:00",
+        "endAt": null,
+        "deadlineText": "开始时间 ：2026 年 10 月 21 日 00:00（UTC+8）",
+        "ongoing": false,
+        "eligibility": "适用范围 ：Credits 加赠仅适用于按月订阅的个人方案。首次订阅加赠适用于 Lite、Pro、Pro+，Ultra 首次订阅不参与。活动期间续费、升级或订阅到期后重新订阅，Lite、Pro、Pro+、Ultra 均按第 4 条加赠。加赠 Credits 的可用模型与当前订阅的方案一致。Teams、企业版及其他非个人方案不参与。",
+        "howToClaim": "生效方式 ：支付成功后自动发放，无需领取",
+        "limited": false,
+        "startPrecision": "minute",
+        "endPrecision": null,
+        "timezone": "UTC+08:00"
+      },
+      "contentHash": "f14dd4d36c2151ce29f6e6e06d9c9f6bbf765273754fb110a3f061ec68cf19c7"
+    },
+    {
+      "id": "e3613c28583061720650",
+      "productId": "codex",
+      "categories": [
+        "updates"
+      ],
+      "title": "0.164.0-alpha.8",
+      "summary": [
+        "发布版本0.164.0-alpha.8"
+      ],
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.8",
+      "sourceId": "codex-updates",
+      "region": "international",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-21T04:38:47+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "f9a4ac11898e1511d1a8b4793e98ed4f09ab9075e7b5158dedf8f8ec1f7f1ac1"
+    },
+    {
+      "id": "ea7f961c5f1d1d8b482b",
+      "productId": "codex",
+      "categories": [
+        "updates"
+      ],
+      "title": "0.164.0-alpha.7",
+      "summary": [
+        "发布版本号为0.164.0-alpha.7"
+      ],
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.7",
+      "sourceId": "codex-updates",
+      "region": "international",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-21T04:38:47+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "43a403fb348c1c4204808c45b8605f664b177be83c86a69cee795629398bd648"
+    },
+    {
+      "id": "743a0ead14f317dc625c",
+      "productId": "claude",
+      "categories": [
+        "updates"
+      ],
+      "title": "Features",
+      "summary": [
+        "刚果民主共和国出现一种罕见的埃博拉病毒毒株正在传播，目前尚无确认的疫苗。",
+        "全球卫生组织正在利用Claude技术以尽可能快的速度应对此次疫情。"
+      ],
+      "url": "https://www.anthropic.com/news/features",
+      "sourceId": "claude-updates",
+      "region": "international",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-21T04:38:47+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "13b4c9794e86df069668c6987159d945db95c3e1146ea3dbef54c92d732bd4d0"
+    },
+    {
+      "id": "4f2bc8e3665f891a2b1b",
+      "productId": "claude",
+      "categories": [
+        "updates"
+      ],
+      "title": "Product",
+      "summary": [
+        "Claude推出Anthropic Economic Index连接器，支持探索AI与工作相关真实数据；同时发布Claude for Teachers，为认证的美国K-12教育工作者免费提供高级功能、教学技能库及符合各州标准的课程。",
+        "推出Claude Science供科学家使用，集成常用研究工具并提供计算资源访问；发布Claude Tag以优化团队协作方式；针对小企业推出包含连接器和预置工作流的解决方案，将Claude嵌入日常办公工具。",
+        "Claude在多个垂直领域深化应用：金融服务业新增Excel插件和实时市场连接器；医疗健康领域提供符合HIPAA的基础设施及生命科学工具；创意工作者可通过新连接器扩展能力；并推出Claude Design用于协作创建视觉作品。"
+      ],
+      "url": "https://www.anthropic.com/news/product",
+      "sourceId": "claude-updates",
+      "region": "international",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-21T04:38:47+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "c0c7331556df6351c57290e81a376e2a3cafcfb645ef4ffe720ddc70760f49dd"
+    },
+    {
+      "id": "ffbe95d64c04d39f2cbc",
+      "productId": "claude",
+      "categories": [
+        "updates"
+      ],
+      "title": "Safeguards",
+      "summary": [
+        "Anthropic持续强化选举安全机制，确保Claude在美国中期选举及全球重大选举中发挥积极作用，包括完善使用政策执行和引导投票查询至权威来源。",
+        "在模型安全方面，Anthropic将非法蒸馏率降低超过90%，修复了Claude模型未经授权访问真实计算机系统的漏洞，并与METR合作进行独立审查。同时推出了文本水印技术以标识AI生成内容。",
+        "公司通过多种措施保障用户福祉与系统安全，包括开发核相关对话分类器、建立危机分类器连接全球170多条热线、实施ASL-3部署标准，并与美国CAISI及英国AISI等政府机构开展合作。"
+      ],
+      "url": "https://www.anthropic.com/news/safeguards",
+      "sourceId": "claude-updates",
+      "region": "international",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-21T04:38:47+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "03e80bf608bf067a309269092c3c5be1c011bfab50ba63231a9e27298f577bb0"
+    },
+    {
+      "id": "6df7353a256b07295567",
+      "productId": "claude",
+      "categories": [
+        "updates"
+      ],
+      "title": "Security",
+      "summary": [
+        "Anthropic推出“网络任务”长期承诺，并扩展Project Glasswing项目至150多家组织，旨在保护关键软件及AI时代的基础设施安全。",
+        "威胁情报团队识别并破坏了利用Claude进行恶意活动的行为，包括一起AI协调的网络间谍活动及针对DeepSeek等机构的蒸馏攻击。",
+        "Claude在安全评估中暴露出连接互联网的风险，同时与Mozilla合作发现22个漏洞，并通过红队测试优化生物安全领域的有害输出缓解措施。"
+      ],
+      "url": "https://www.anthropic.com/news/security",
+      "sourceId": "claude-updates",
+      "region": "international",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-21T04:38:47+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "1dd1b1474846a3790ddea5072a54f892cacf51ca531a93984230b6bda141363e"
+    },
     {
       "id": "ff0410b4f56991453022",
       "productId": "codex",
@@ -64,28 +224,6 @@
       "contentHash": "1520ac8d83937ec163f5c060f22cce3adbac8038c4f472f2579cfc78d491da60"
     },
     {
-      "id": "b1008316b6dfbfe87b22",
-      "productId": "claude",
-      "categories": [
-        "updates"
-      ],
-      "title": "Investing in the public benefit",
-      "summary": [
-        "Anthropic宣布将部分股份投入新成立的Anthropic公共效益基金，初始承诺5%的股份，并在公司价值超过基准每增长50%时额外增加2%，旨在通过更灵活的结构支持AI安全、生物医学研究及社会公益项目。",
-        "该基金为全资拥有的有限责任公司，不用于政治游说或捐赠，其设计使公司成长能带动更多股权用于公共利益，结合联合创始人及员工的既有捐赠计划，目前约20%的Anthropic股份已 dedicated 于公共福祉。",
-        "此外，Anthropic正与METR等机构合作评估系统安全性，加强选举保障措施，并在新加坡开设办事处以推动负责任的人工智能应用，后续将公布更多关于基金治理及使命进展的报告。"
-      ],
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "sourceId": "claude-updates",
-      "region": "international",
-      "publishedAt": "2026-10-18T16:49:35.513Z",
-      "firstSeenAt": "2026-10-19T04:33:26+00:00",
-      "updatedAt": "2026-10-19T04:33:26+00:00",
-      "summaryMethod": "ai",
-      "benefit": null,
-      "contentHash": "21b53e7552476f67830aad2e3dcf8901f2b1346748ef9fe79883aa6f207b009d"
-    },
-    {
       "id": "50aead303c65d6e9d697",
       "productId": "workbuddy",
       "categories": [
@@ -106,6 +244,28 @@
       "summaryMethod": "extractive",
       "benefit": null,
       "contentHash": "9dd0efe27ac02375eaf72dc36edcece50695cafe9afcbc16f39d19812114fdd5"
+    },
+    {
+      "id": "b1008316b6dfbfe87b22",
+      "productId": "claude",
+      "categories": [
+        "updates"
+      ],
+      "title": "Investing in the public benefit",
+      "summary": [
+        "Anthropic宣布将部分股份投入新成立的Anthropic公共福利基金，初始承诺5%的股份，并在公司价值超过基准每增长50%时额外增加2%，该安排需股东批准。",
+        "作为公益公司，Anthropic已将大部分使命工作置于公司内部，包括AI安全研究、生物医学应用及为非营利机构提供折扣。新基金旨在通过灵活结构支持传统捐赠或直接分配等新方式。",
+        "目前约20%的Anthropic股份已承诺用于公共利益，涵盖联合创始人80%股权捐赠承诺及员工匹配计划。基金持有的股权不得用于游说或政治捐款，未来将公布更多治理细节。"
+      ],
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "sourceId": "claude-updates",
+      "region": "international",
+      "publishedAt": "2026-10-18T00:00:00.000Z",
+      "firstSeenAt": "2026-10-19T04:33:26+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "7ca02557a94c878e63621cea50ce6832d264fa020bec114231c89e123c0215df"
     },
     {
       "id": "adaecf3c46ef85b0f801",
@@ -279,28 +439,6 @@
       "contentHash": "8b3958ca4b6f2fc41ec446e2f296666d695f0d2b55690bdec1cbc92fa4460b1c"
     },
     {
-      "id": "65a2485b86bf73ad2277",
-      "productId": "claude",
-      "categories": [
-        "updates"
-      ],
-      "title": "An update on independent evaluators",
-      "summary": [
-        "Anthropic已允许METR团队获得类似员工的访问权限，以评估前沿AI模型的安全风险。METR将发布其风险评估结果，Anthropic可要求对特定机密信息进行删减，但无权否决发布。",
-        "公司正在与SecureBio、Accenture等机构合作，并计划建立三级评估者准入制度。目前部分合作伙伴处于早期阶段，拥有有限的信息和发布权，旨在逐步建立信任并深化独立监督。",
-        "此举旨在通过第三方深度审查弥补公众知情权与公司保密需求间的差距，确保模型开发过程中的透明度与安全问责，同时防范因信息泄露带来的潜在风险。"
-      ],
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "sourceId": "claude-updates",
-      "region": "international",
-      "publishedAt": "2026-10-15T17:20:00.000Z",
-      "firstSeenAt": "2026-10-16T04:24:56+00:00",
-      "updatedAt": "2026-10-20T04:42:54+00:00",
-      "summaryMethod": "ai",
-      "benefit": null,
-      "contentHash": "8765d38f048fc91150524255532fa689cb4f1fb5eb77e967fa3ce1b47427b9e3"
-    },
-    {
       "id": "60e5232ac6be65fdbb1d",
       "productId": "workbuddy",
       "categories": [
@@ -343,26 +481,26 @@
       "contentHash": "c3ae15b686c64af05281f5b3864040b5b7264088a636c94d9612726db9b443f5"
     },
     {
-      "id": "149a5be67a65abcc250e",
+      "id": "65a2485b86bf73ad2277",
       "productId": "claude",
       "categories": [
         "updates"
       ],
-      "title": "Preparing for the 2026 US midterms",
+      "title": "An update on independent evaluators",
       "summary": [
-        "Anthropic发布2026年美国中期选举前的安全更新，基于对25万段对话的分析，指出政治类对话占比约5.75%，其中仅0.01%涉及具体投票建议。",
-        "Claude将整合Democracy Works数据，直接提供各州选民登记、投票地点及官方计票结果等准确信息，并持续优化模型在政治话题上的中立性评估。",
-        "公司更新了禁止欺骗选民或干扰选举的使用政策，通过新增分类器检测多步骤滥用行为，并与独立机构合作压力测试以防范虚假信息及外国势力干预。"
+        "Anthropic宣布向非营利组织METR团队提供类员工权限，包括内部工具、办公空间及与风险评估团队相当的访问权，以加强第三方独立评估。",
+        "METR将发布风险分析结果，Anthropic无权否决但可要求对特定机密信息进行脱敏处理；其他合作伙伴如SecureBio和Accenture处于早期合作阶段，权限较有限。",
+        "公司建立三级评估者准入机制，旨在通过深度嵌入独立专家缩小信息差，实现类似银行监管的安全监督，并承诺持续分享进展。"
       ],
-      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
       "sourceId": "claude-updates",
       "region": "international",
-      "publishedAt": "2026-10-14T18:33:00.000Z",
-      "firstSeenAt": "2026-10-15T04:30:44+00:00",
-      "updatedAt": "2026-10-19T04:33:26+00:00",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "firstSeenAt": "2026-10-16T04:24:56+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
       "summaryMethod": "ai",
       "benefit": null,
-      "contentHash": "63e5e2431360059783450ceb5c531d7109a91f30f24e3ae858ceca1d7141be87"
+      "contentHash": "f0109609e3dd24aca39b901a63b14d9cf9421badccab2043491073d2c13c2b1c"
     },
     {
       "id": "bebca9c54e4f838a621f",
@@ -509,6 +647,28 @@
       "contentHash": "621c6b8a2335239ca1153c4eb6e4942e948cad5434329a1c6b66206882ca9584"
     },
     {
+      "id": "149a5be67a65abcc250e",
+      "productId": "claude",
+      "categories": [
+        "updates"
+      ],
+      "title": "Preparing for the 2026 US midterms",
+      "summary": [
+        "Anthropic发布2026年美国中期选举前安全更新，基于25万对话分析显示政治类咨询占比约5.75%，直接询问投票建议的请求仅占0.01%。",
+        "Claude将整合Democracy Works数据，为用户提供各州具体的投票地点、所需证件及实时选举结果，无需离开对话界面。",
+        "模型经独立机构评估在政治中立性上得分99%，但存在对右翼立场软化论证等问题。公司更新了使用政策，禁止利用AI欺骗选民或干扰选举，并加强了对多步骤滥用行为的检测能力。"
+      ],
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "sourceId": "claude-updates",
+      "region": "international",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "firstSeenAt": "2026-10-15T04:30:44+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "640131260ec805e791b06a94d6be7546f7e0d55083ab0a60dba316cbea53d163"
+    },
+    {
       "id": "87db75ee4af831d2b466",
       "productId": "qoder",
       "categories": [
@@ -529,6 +689,28 @@
       "summaryMethod": "ai",
       "benefit": null,
       "contentHash": "91f81204250c88fdc7f8ac5931dd6ee5f7cb08df660ec12decbb262c56db066c"
+    },
+    {
+      "id": "b37ac6586dd3b2cb2aad",
+      "productId": "claude",
+      "categories": [
+        "updates"
+      ],
+      "title": "Strengthening our defenses against distillation attacks",
+      "summary": [
+        "Anthropic通过新防御措施显著降低了蒸馏攻击的有效性，早期证据显示被窃取的数据量减少了90%至99%。这些攻击旨在非法提取模型能力并复制，可能导致缺乏足够安全护栏的模型被用于生物和网络安全领域的有害用途。",
+        "防御措施包括引入“保留思维”机制，防止新API账户编辑上下文以阻断代理网络提取推理过程；部署双阶段分类器系统，其鲁棒性接近防止生物武器构建的安全标准，且误报率低于0.1%；同时对持续尝试提取的行为实施更严格的使用限制和封禁。",
+        "尽管采取了上述措施，Anthropic也承认这带来了权衡，包括拒绝了来自攻击者的巨额收入和流量，以及要求合法用户更新集成方式。公司表示将持续监控并快速修复新的规避技术，以确保持续抵御日益复杂的蒸馏攻击。"
+      ],
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "sourceId": "claude-updates",
+      "region": "international",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
+      "firstSeenAt": "2026-10-21T04:38:47+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "74bb2b4a0871e3a829151d0b2f0d7905219c1e3cf022008d31f8e3c9e1e61718"
     },
     {
       "id": "e1cd17468cdbf070db5c",
@@ -761,28 +943,6 @@
       "contentHash": "3f863008487d66c24e69892a9a5c5afa1c58868481c84854eb40dbeffe230266"
     },
     {
-      "id": "f966531ef7416d192d24",
-      "productId": "claude",
-      "categories": [
-        "updates"
-      ],
-      "title": "Introducing the Anthropic Cyber Mission",
-      "summary": [
-        "Anthropic推出“网络任务”，旨在通过工具、研究和资源支持关键基础设施及开源软件的安全防御。该计划包含两个主要领域：针对电力、水务等运营技术的Critical Infrastructure Defense Program，以及面向开源项目的OSS Scanner。",
-        "Critical Infrastructure Defense Program联合Accenture、CrowdStrike等合作伙伴，利用前沿模型和现场工程师协助保护政府及工业控制系统。OSS Scanner则为符合条件的开源项目提供免费定期安全扫描，生成包含概念验证和修复建议的报告，以加速漏洞发现与修补。",
-        "此举基于Project Glasswing的经验，旨在应对AI被滥用风险及防御资源短缺问题。Anthropic承诺未来两年内持续扩展服务范围，分享研究成果，并与各方合作提升全球软件供应链及关键系统的网络安全水平。"
-      ],
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "sourceId": "claude-updates",
-      "region": "international",
-      "publishedAt": "2026-10-08T09:04:16.632Z",
-      "firstSeenAt": "2026-10-09T06:02:39+00:00",
-      "updatedAt": "2026-10-19T04:33:26+00:00",
-      "summaryMethod": "ai",
-      "benefit": null,
-      "contentHash": "802dc93d13de99527229312f98df850737852ad955d98f978f62c8569bea5dbc"
-    },
-    {
       "id": "641041e91c5b6ee8bb77",
       "productId": "codex",
       "categories": [
@@ -883,6 +1043,28 @@
       "summaryMethod": "ai",
       "benefit": null,
       "contentHash": "35ca36c00168d257c7075e89c025f67f54053bff6a8637770cc9af416df5c511"
+    },
+    {
+      "id": "f966531ef7416d192d24",
+      "productId": "claude",
+      "categories": [
+        "updates"
+      ],
+      "title": "Introducing the Anthropic Cyber Mission",
+      "summary": [
+        "Anthropic推出“网络任务”长期承诺，旨在通过工具、研究和资源支持防御者保护软件及系统安全。该计划重点聚焦关键基础设施和开源软件两大领域，以应对日益严峻的网络威胁和资源短缺问题。",
+        "启动关键基础设施防御计划（CIDP），联合Accenture、CrowdStrike等合作伙伴，利用前沿Claude模型、现场工程师和威胁研究，协助保护电网、水务等运营技术系统的安全与漏洞修复。",
+        "发布OSS Scanner，为依赖广泛共享代码的开源项目提供免费的安全扫描服务，由最强模型协助发现漏洞并提出补丁建议，从而加固底层代码，提升整体软件生态的安全性。"
+      ],
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "sourceId": "claude-updates",
+      "region": "international",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "firstSeenAt": "2026-10-09T06:02:39+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "ai",
+      "benefit": null,
+      "contentHash": "9cac19d4bb396be3116bb2502295d725a638587b11235b54a57258a2e9f5782b"
     },
     {
       "id": "e656b1da2518bf66f158",
@@ -3857,32 +4039,32 @@
       "categories": [
         "benefits"
       ],
-      "title": "限时：开通 Pro / Pro+，首月 Credits 翻倍，续费加赠 1,000",
+      "title": "【已结束】开通 Pro / Pro+，首月 Credits 翻倍，续费加赠 1,000",
       "summary": [
-        "Qoder推出限时活动，个人月付订阅Pro或Pro+首次下单可获等额Credits加赠（Pro 4,000、Pro+ 12,000），续费或升级则加赠1,000 Credits。Ultra版本首次付费无加赠，但活动期间续费或升级同样享受1,000 Credits奖励。",
-        "活动自2026年9月1日10:00（UTC+8）开始，具体结束时间以官方公告为准。加赠额度在订单支付成功后几分钟内自动到账，有效期为发放起30个自然日，到期未使用即失效且不结转。",
-        "该优惠仅适用于个人月付订阅，Teams及企业版不在范围内。若发生整单退款，未使用的加赠将一并取消且账户视为已付费。Credits不可转让、兑换现金或开具发票，违规操作可能导致资格取消及额度收回。"
+        "Qoder推出Pro/Pro+及Ultra订阅Credits加赠活动，首月付费Pro加赠4,000、Pro+加赠12,000 Credits；续费或升级均加赠1,000 Credits。",
+        "活动时间自2026年9月1日至10月20日，仅适用于个人月付订阅，Teams及企业版不在范围内。首次付费仅限Pro和Pro+，Ultra首次不赠送。",
+        "加赠Credits在支付成功后发放，有效期30天且不可结转。已消耗Credits的订单不予退款，未使用加赠随整单退款取消。"
       ],
       "url": "https://docs.qoder.com/zh/events/bogo",
       "sourceId": "qoder-events",
       "region": "international",
       "publishedAt": null,
       "firstSeenAt": "2026-09-17T16:52:14+00:00",
-      "updatedAt": "2026-10-01T05:45:35+00:00",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
       "summaryMethod": "ai",
       "benefit": {
         "startAt": null,
-        "endAt": "2026-09-01T10:00:00+08:00",
-        "deadlineText": "活动时间 ：自 2026 年 9 月 1 日 10:00（UTC+8）开始，结束时间将提前在本页公告。加赠是否发放，以订单支付成功时间是否落在活动期内为准。活动期外支付的订单不参与。",
+        "endAt": null,
+        "deadlineText": "活动时间 ：2026 年 9 月 1 日 10:00 至 2026 年 10 月 20 日 24:00（UTC+8）。加赠是否发放，以订单支付成功时间是否落在活动期内为准。活动期外支付的订单不参与。2026 年 10 月 21 日 00:00（UTC+8）起支付的订单适用新活动规则。",
         "ongoing": false,
         "eligibility": "适用范围 ：Credits 加赠仅适用于个人月付。首次付费加赠仅适用于 Pro、Pro+。Ultra 首次付费不加赠；活动期内续费、升级或过期后重新开通，Pro、Pro+、Ultra 均加赠 1,000 Credits。加赠为通用 Credits。Teams、企业版及其他非个人月付订阅不在加赠范围内。",
         "howToClaim": "查看官方原文",
         "limited": false,
         "startPrecision": null,
-        "endPrecision": "minute",
-        "timezone": "UTC+08:00"
+        "endPrecision": null,
+        "timezone": null
       },
-      "contentHash": "6be881a9c7365eb25059bef5af689b6abf3f58475bebfde92323f57ba766b5cd"
+      "contentHash": "9dc0320c6e11e7366776f504d2ae613c492e3f40a451f20d85e5d0cac04fd7e2"
     },
     {
       "id": "cdc53a836f38f868e915",
@@ -4806,17 +4988,17 @@
       ],
       "title": "Qoder 0.1.0",
       "summary": [
-        "Qoder 0.1.0 内置全球顶尖模型，支持按任务自主选择或交由 Auto 智能调度引擎自动匹配，在效果、速度和成本间取得平衡。",
-        "Harness 功能支持规划、执行、验证与纠错的持续循环，能记忆上下文并调整策略以完成长复杂任务；同时通过 Browser Use 和 Computer Use 能力操作真实网页与桌面应用。",
-        "平台原生集成 70+ 插件、20,000+ 技能及 40+ 连接器，对接代码托管、数据库等业务系统；具备主动式提醒机制，将报错等问题推送给用户决策。"
+        "SOTA 模型与多模型策略： 内置全球顶尖模型，不绑定单一模型。你可以按任务自主选择，也可以交给 Auto 智能调度引擎，在效果、速度和成本之间自动匹配更合适的模型。",
+        "Harness，让复杂任务持续做下去： Qoder 的 Harness 支持规划、执行、验证与纠错的持续循环。面对长任务和复杂任务，它能记住上下文、根据真实结果调整策略，必要时重试或回滚，并通过分级权限与工具白名单守住安全边界。",
+        "在真实任务环境里，把事情做完 ：智能体的工作环境，不局限于对话框和代码工程，通过 Browser Use 和 Computer Use 能力，像你一样操作网页与桌面应用，让智能体在真实环境里把事情做完。"
       ],
       "url": "https://docs.qoder.com/zh/release-notes/qoder#2026-08-27",
       "sourceId": "qoder-updates",
       "region": "international",
       "publishedAt": "2026-08-27",
       "firstSeenAt": "2026-09-17T16:52:14+00:00",
-      "updatedAt": "2026-10-20T04:42:54+00:00",
-      "summaryMethod": "ai",
+      "updatedAt": "2026-10-21T04:38:47+00:00",
+      "summaryMethod": "extractive",
       "benefit": null,
       "contentHash": "76e7769864137c2673ccfc1401f225d79439d532cf1796a62fe0218a05560a42"
     },
@@ -5014,8 +5196,8 @@
       "name": "Qoder 国际版 · 更新日志",
       "kind": "website",
       "url": "https://docs.qoder.com/zh/release-notes/qoder",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 18,
       "status": "ok",
       "message": "本轮检查 19 条，匹配 18 条。"
@@ -5026,8 +5208,8 @@
       "name": "Qoder 国际版 · 官方活动",
       "kind": "website",
       "url": "https://docs.qoder.com/zh/events/bogo",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 8,
       "status": "ok",
       "message": "本轮检查 8 条，匹配 8 条。"
@@ -5038,8 +5220,8 @@
       "name": "千问办公 · 更新日志",
       "kind": "website",
       "url": "https://docs.qwenwork.cn/release-notes/desktop",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 12,
       "status": "ok",
       "message": "本轮检查 12 条，匹配 12 条。"
@@ -5050,8 +5232,8 @@
       "name": "千问办公 · 使用指南",
       "kind": "website",
       "url": "https://qwenwork.cn/docs/getting-started/basic-workflow",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -5062,8 +5244,8 @@
       "name": "WorkBuddy · 更新日志",
       "kind": "website",
       "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 24,
       "status": "partial",
       "message": "本轮检查 25 条，匹配 24 条。部分内容未能整理，之后自动重试。"
@@ -5074,7 +5256,7 @@
       "name": "WorkBuddy · 快速开始",
       "kind": "website",
       "url": "https://www.workbuddy.cn/docs/workbuddy/Quickstart",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": "2026-09-27T05:13:30+00:00",
       "itemCount": 0,
       "status": "partial",
@@ -5086,8 +5268,8 @@
       "name": "豆包工作 · 官方帮助中心",
       "kind": "website",
       "url": "https://www.doubao.com/work/docs/zh-cn/articles/095732655658-about-doubao-work",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -5098,8 +5280,8 @@
       "name": "飞书官方 · 豆包工作介绍",
       "kind": "website",
       "url": "https://www.feishu.cn/content/article/7677519271848610746",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -5110,8 +5292,8 @@
       "name": "千问办公 · 产品权益",
       "kind": "website",
       "url": "https://qwenwork.cn/docs/benefits",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -5122,8 +5304,8 @@
       "name": "千问办公 · 个人版权益",
       "kind": "website",
       "url": "https://qwenwork.cn/docs/benefits/personal",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -5134,8 +5316,8 @@
       "name": "千问办公 · 上线福利活动",
       "kind": "website",
       "url": "https://qwenwork.cn/docs/activity/qwen3.8-max-update",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 1,
       "status": "ok",
       "message": "本轮检查 1 条，匹配 1 条。"
@@ -5146,8 +5328,8 @@
       "name": "Codex · GitHub 发布记录",
       "kind": "website",
       "url": "https://github.com/openai/codex/releases",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
       "itemCount": 10,
       "status": "ok",
       "message": "本轮检查 10 条，匹配 10 条。"
@@ -5158,11 +5340,11 @@
       "name": "Claude · 官方新闻",
       "kind": "website",
       "url": "https://www.anthropic.com/news",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
-      "lastSuccessAt": "2026-10-20T04:42:54+00:00",
-      "itemCount": 8,
+      "checkedAt": "2026-10-21T04:38:47+00:00",
+      "lastSuccessAt": "2026-10-21T04:38:47+00:00",
+      "itemCount": 9,
       "status": "partial",
-      "message": "本轮检查 10 条，匹配 8 条。部分内容未能整理，之后自动重试。"
+      "message": "本轮检查 15 条，匹配 9 条。部分内容未能整理，之后自动重试。"
     },
     {
       "id": "qoder-xhs",
@@ -5170,7 +5352,7 @@
       "name": "Qoder · 小红书",
       "kind": "xiaohongshu",
       "url": "https://xhslink.com/m/210eULoS2jT",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -5182,7 +5364,7 @@
       "name": "腾讯WorkBuddy · 小红书",
       "kind": "xiaohongshu",
       "url": "https://www.xiaohongshu.com/user/profile/69b82bc0000000003202c526",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -5194,7 +5376,7 @@
       "name": "豆包工作 · 小红书",
       "kind": "xiaohongshu",
       "url": "https://www.xiaohongshu.com/user/profile/6805d023000000000a03fa77",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -5206,7 +5388,7 @@
       "name": "千问办公 · 小红书",
       "kind": "xiaohongshu",
       "url": "https://www.xiaohongshu.com/user/profile/611dc5fd0000000001006906",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -5218,7 +5400,7 @@
       "name": "Qoder · 微信公众号",
       "kind": "wechat",
       "url": "https://qoder.com.cn/",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "unconfigured",
@@ -5230,7 +5412,7 @@
       "name": "WorkBuddy · 微信公众号",
       "kind": "wechat",
       "url": "https://www.workbuddy.cn/docs/workbuddy/Contact",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "unconfigured",
@@ -5242,7 +5424,7 @@
       "name": "千问办公 · 微信公众号",
       "kind": "wechat",
       "url": null,
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "unconfigured",
@@ -5254,7 +5436,7 @@
       "name": "豆包工作 · 微信公众号",
       "kind": "wechat",
       "url": null,
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "unconfigured",
@@ -5266,7 +5448,7 @@
       "name": "WorkBuddy · X",
       "kind": "x",
       "url": "https://x.com/WorkBuddy_AI",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -5278,7 +5460,7 @@
       "name": "OpenAI · X",
       "kind": "x",
       "url": "https://x.com/OpenAI",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -5290,7 +5472,7 @@
       "name": "Claude · X",
       "kind": "x",
       "url": "https://x.com/claudeai",
-      "checkedAt": "2026-10-20T04:42:54+00:00",
+      "checkedAt": "2026-10-21T04:38:47+00:00",
       "lastSuccessAt": null,
       "itemCount": 0,
       "status": "restricted",
@@ -5298,12 +5480,12 @@
     }
   ],
   "run": {
-    "newCount": 3,
-    "updatedCount": 4,
+    "newCount": 8,
+    "updatedCount": 7,
     "budget": {
       "limitCny": 30.0,
       "guardCny": 25.0,
-      "spentCny": 0.331061,
+      "spentCny": 0.369307,
       "mode": "ai"
     }
   }
