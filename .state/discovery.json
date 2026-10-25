@@ -1299,8 +1299,133 @@
       "brand": "Claude",
       "seenAt": "2026-10-18T05:29:15+00:00",
       "status": "rejected"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.8.3": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.9.0": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "published"
+    },
+    "https://qoder.com/blog/qoder-fasttech": {
+      "brand": "Qoder",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "no-content"
+    },
+    "https://qoder.com/blog/qoder-lite": {
+      "brand": "Qoder",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "no-content"
+    },
+    "https://www.anthropic.com/research/a-postmortem-of-three-recent-issues": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/accelerating-scientific-research": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/advanced-tool-use": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/AI-resistant-technical-evaluations": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/alignment-assessment-ukaisi": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/anthropic-public-record": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/april-23-postmortem": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/attack-surface-reduction": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/building-c-compiler": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/claude-code-auto-mode": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/claude-code-best-practices": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/claude-code-sandboxing": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/claude-discovers-novel-enzyme-system": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/claude-think-tool": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/code-execution-with-mcp": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/contextual-retrieval": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/demystifying-evals-for-ai-agents": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/desktop-extensions": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents": {
+      "brand": "Claude",
+      "seenAt": "2026-10-25T05:46:19+00:00",
+      "status": "rejected"
     }
   },
   "baselineAt": "2026-09-19T19:55:07+00:00",
-  "lastRunAt": "2026-10-18T05:29:15+00:00"
+  "lastRunAt": "2026-10-25T05:46:19+00:00"
 }

@@ -341,6 +341,29 @@
       "contentHash": "c5b5b689bc2d89c90ed49e601986b9c2207d486ccfe547db3d9d40a5522a8bfa"
     },
     {
+      "id": "f438b41938195c531011",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "新增独立文件浏览器 HTML 在新窗口打开",
+        "新增模型选择器配置自定义模型入口",
+        "新增购买成功后 Buddy One 绑定引导"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.9.0",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-21T08:17:09.000Z",
+      "firstSeenAt": "2026-10-25T05:46:19+00:00",
+      "updatedAt": "2026-10-25T05:46:19+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "883ec744236867ff88bc6c34287d7c0a8ef913332c7b0c33774f437f4577016a",
+      "pending": false
+    },
+    {
       "id": "ce98223889daf4b129b0",
       "productId": "qoder",
       "categories": [
@@ -603,6 +626,29 @@
       "summaryMethod": "ai",
       "benefit": null,
       "contentHash": "b9a942028f0492d5b6acfe626b956b0b4494ee1e8c1f84aa832163a1f0b38ccc"
+    },
+    {
+      "id": "24aeb349a3b4a32a8606",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "修复内置运行时随版本切换时同步弹出闪屏的问题",
+        "修复账号刷新串号导致会话错乱，以及企微助理会话结束后入口默认回到本地助理的问题",
+        "修复 5.8.3 中语音功能因被异常覆盖导致不可用的问题"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.8.3",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-19T03:01:37.000Z",
+      "firstSeenAt": "2026-10-25T05:46:19+00:00",
+      "updatedAt": "2026-10-25T05:46:19+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "17643df9e2ec1bc9e3cbed6b83cd99a83cf5dc5f3665a0eae04845409ebad54c",
+      "pending": false
     },
     {
       "id": "50aead303c65d6e9d697",
