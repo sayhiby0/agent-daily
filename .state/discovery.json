@@ -1424,8 +1424,123 @@
       "brand": "Claude",
       "seenAt": "2026-10-25T05:46:19+00:00",
       "status": "rejected"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Buddy-One/Benefits": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.9.1": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.9.2": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.9.3": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "published"
+    },
+    "https://www.anthropic.com/research/agents-judgment-calls": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/early-progress-drug-development": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/eval-awareness-browsecomp": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/formal-verification": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/golden-gate-claude": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/harness-design-long-running-apps": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/how-we-contain-claude": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/infrastructure-noise": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/long-running-claude": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/managed-agents": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/multi-agent-research-system": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/political-even-handedness": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/redesigning-source-control": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/writing-tools-for-agents": {
+      "brand": "Claude",
+      "seenAt": "2026-11-01T07:10:41+00:00",
+      "status": "rejected"
     }
   },
   "baselineAt": "2026-09-19T19:55:07+00:00",
-  "lastRunAt": "2026-10-25T05:46:19+00:00"
+  "lastRunAt": "2026-11-01T07:10:41+00:00"
 }

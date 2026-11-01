@@ -245,6 +245,40 @@
       "contentHash": "30aa92e93330dd38cc218470015c57e5db9bb9ae88a9e582264d14f411e2c257"
     },
     {
+      "id": "24e7d7d082e00693cef4",
+      "productId": "workbuddy",
+      "categories": [
+        "benefits"
+      ],
+      "title": "Buddy One VIP 会员权益说明",
+      "summary": [
+        "积分 ：基础积分和赠送积分仅在当前套餐周期内有效，不结转至下一周期。",
+        "Buddy One 积分 ：通过Buddy One VIP订阅套餐发放、赠送的积分于失效时清零。",
+        "开通 Buddy One VIP 后，可获得 WorkBuddy、腾讯文档、腾讯会议、ima 和腾讯网盘产品的对应权益。"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Buddy-One/Benefits",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-28T02:50:26.000Z",
+      "firstSeenAt": "2026-11-01T07:10:41+00:00",
+      "updatedAt": "2026-11-01T07:10:41+00:00",
+      "summaryMethod": "extractive",
+      "benefit": {
+        "startAt": null,
+        "endAt": null,
+        "deadlineText": "原文未说明",
+        "ongoing": false,
+        "eligibility": "原文未说明",
+        "howToClaim": "查看官方原文",
+        "limited": false,
+        "startPrecision": null,
+        "endPrecision": null,
+        "timezone": null
+      },
+      "contentHash": "daa094d297a25db6ee1e92fa739450665d2bee5be17f3ff78a5ba7012d1e29f5",
+      "pending": false
+    },
+    {
       "id": "ef8290e76bc5ce504b7f",
       "productId": "claude",
       "categories": [
@@ -265,6 +299,29 @@
       "summaryMethod": "ai",
       "benefit": null,
       "contentHash": "26fed378b183184068ad5c4ed345295b07b99b9a4f5be257000d3f5568c3d532"
+    },
+    {
+      "id": "1d082eb52e0630fc1039",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "修复从其他设备迁移数据时仅能全量导入、无法按分类选择且超大数据无法迁移的问题，导入上限调整为 100GB",
+        "修复 Windows 升级时因安装目录校验导致升级检查失败的问题",
+        "修复重启后历史会话使用的模型被误回退到其他模型的问题"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.9.3",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-27T18:37:13.000Z",
+      "firstSeenAt": "2026-11-01T07:10:41+00:00",
+      "updatedAt": "2026-11-01T07:10:41+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "d3ef7d0127979e304504ca9524944762badfbbae1da5e3e5d53609ed86456d19",
+      "pending": false
     },
     {
       "id": "3f58b510501428fd52cd",
@@ -444,6 +501,52 @@
       "summaryMethod": "ai",
       "benefit": null,
       "contentHash": "2dc39639837a5e1da2af25af7eeba2ff0f0d4fab2d640cda85fafd20d56cb548"
+    },
+    {
+      "id": "6f6ec5112e7595584ef6",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "新增从同账号其他电脑导入任务、空间和定时任务，可在设置中一键迁移",
+        "新增 Buddy One 会员购买，开通后排队提示同步更新",
+        "新增 Gmail 部分授权与补充授权，授权完成后自动返回客户端"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.9.1",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-26T08:48:07.000Z",
+      "firstSeenAt": "2026-11-01T07:10:41+00:00",
+      "updatedAt": "2026-11-01T07:10:41+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "e9dd3f760f32bf9147ae4f39246519b085ffaf9e37063ac23d2a0ddefdb74f90",
+      "pending": false
+    },
+    {
+      "id": "0071df6475ff1579732f",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "优化语音识别体验，终稿直接回填输入框，不再经过额外润色处理",
+        "优化语音快捷键，恢复组合快捷键支持，并与双绑定设置保持同步",
+        "修复欢迎页办公 / 开发模式的路由在版本切换后未正确生效的问题"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.9.2",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-10-26T02:42:43.000Z",
+      "firstSeenAt": "2026-11-01T07:10:41+00:00",
+      "updatedAt": "2026-11-01T07:10:41+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "de0990ec9e8ca88290fd86ef0b668c0fc89d2e3974a1eb05a597be4fc6a7a1c4",
+      "pending": false
     },
     {
       "id": "9493c0c5a2571820a9c8",
