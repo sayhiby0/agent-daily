@@ -313,6 +313,29 @@
       "contentHash": "02179263dd382f5a93353eebe8ef6d9da03da8ec6fa6350e30a331efef24e879"
     },
     {
+      "id": "061b4a587df839ccb918",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "首页全新改版，下线办公/开发/设计入口，统一任务栏、菜单与顶栏",
+        "定时任务全面升级，支持立即运行、编辑、重命名、删除与启动/暂停",
+        "独立文件浏览器支持标签页拖出独立窗口、右侧栏预览"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.11.0",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-11-03T08:07:20.000Z",
+      "firstSeenAt": "2026-11-08T06:57:31+00:00",
+      "updatedAt": "2026-11-08T06:57:31+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "5801851b959509990fb2bb87349321b1f4ca8714d835a57bce6b511ae98bdcbc",
+      "pending": false
+    },
+    {
       "id": "821ded18e6f1a369bfbf",
       "productId": "codex",
       "categories": [
