@@ -370,6 +370,29 @@
       "contentHash": "5a8366f69ac8105e110210c6fca2d79af02d8c9353f8061948a4728af7f074ab"
     },
     {
+      "id": "15b685c1c4c58c700f83",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "修复任务运行会话顶栏编辑时，分组下拉缺少新建分组与选择本地文件夹选项的问题",
+        "修复置顶任务通过右键菜单移入分组时与拖拽行为不一致，取消置顶后未直接落到目标分组的问题",
+        "修复拖拽任务时侧栏偶现空白置顶区的问题"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.11.3",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-11-16T10:42:54.000Z",
+      "firstSeenAt": "2026-11-22T07:49:43+00:00",
+      "updatedAt": "2026-11-22T07:49:43+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "782a405390953da591f4cdc3bf033500596a305564ffd9b628cc624e64c3fc91",
+      "pending": false
+    },
+    {
       "id": "9f1577e35627e76f82e5",
       "productId": "codex",
       "categories": [
@@ -408,6 +431,50 @@
       "summaryMethod": "ai",
       "benefit": null,
       "contentHash": "3a3afddce1fa0eebaf2be8e3c03184da55f850adea9bc4641aa3cb8baebc3dab"
+    },
+    {
+      "id": "2e68a067284139ae2db9",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "优化云端任务离屏恢复能力"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.11.1",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-11-15T09:56:35.000Z",
+      "firstSeenAt": "2026-11-22T07:49:43+00:00",
+      "updatedAt": "2026-11-22T07:49:43+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "30ab3e68bb55348f203081006b91eb9f291c87664397a062f085edf2770a2e3c",
+      "pending": false
+    },
+    {
+      "id": "1f698f71c85a214539ef",
+      "productId": "workbuddy",
+      "categories": [
+        "updates"
+      ],
+      "title": "WorkBuddy 更新日志",
+      "summary": [
+        "新增侧栏「置顶 / 最近 / 分组」独立分区展示，支持按类型筛选",
+        "新增任务置顶交互优化，支持置顶任务管理与排序",
+        "新增新建会话时打开本地文件夹入口，会话归属更灵活"
+      ],
+      "url": "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.11.2",
+      "sourceId": "discover-workbuddy",
+      "region": "cn",
+      "publishedAt": "2026-11-15T09:56:35.000Z",
+      "firstSeenAt": "2026-11-22T07:49:43+00:00",
+      "updatedAt": "2026-11-22T07:49:43+00:00",
+      "summaryMethod": "extractive",
+      "benefit": null,
+      "contentHash": "d46b3a0fd911ec1ebfcc42e2ab198cc22a275527fcb8a33db2bd13eb0208468b",
+      "pending": false
     },
     {
       "id": "1717a701502ceab7b374",

@@ -1584,8 +1584,38 @@
       "brand": "Claude",
       "seenAt": "2026-11-15T07:36:33+00:00",
       "status": "rejected"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.11.1": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-11-22T07:49:43+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.11.2": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-11-22T07:49:43+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.11.3": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-11-22T07:49:43+00:00",
+      "status": "published"
+    },
+    "https://www.workbuddy.cn/docs/workbuddy/Changelog-5.11.3-English": {
+      "brand": "WorkBuddy",
+      "seenAt": "2026-11-22T07:49:43+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/claude-black-hole-physics": {
+      "brand": "Claude",
+      "seenAt": "2026-11-22T07:49:43+00:00",
+      "status": "rejected"
+    },
+    "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines": {
+      "brand": "Claude",
+      "seenAt": "2026-11-22T07:49:43+00:00",
+      "status": "rejected"
     }
   },
   "baselineAt": "2026-09-19T19:55:07+00:00",
-  "lastRunAt": "2026-11-15T07:36:33+00:00"
+  "lastRunAt": "2026-11-22T07:49:43+00:00"
 }
